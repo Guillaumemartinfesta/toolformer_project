@@ -9,8 +9,8 @@ The rest of the files in the repositories consits of logs/results/model_weights 
 
 The code in the jupyter notebook is structured in 5 main parts: 
 
-I/ Sampling API calls 
-II/ Executing API calls
-III/ Filtering useless or harmful API calls/
-IV/ Finetuning on the filtered dataset
-V/ Results 
+- Sampling API calls 
+- Executing API calls
+- Filtering useless or harmful API calls/
+- Finetuning on the filtered dataset
+- Results 
